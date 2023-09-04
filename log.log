@@ -1,0 +1,1000 @@
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName BULLET-GREEN.BMP
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\BULLET-GREEN.BMP
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 822
+FI.FileVersion 
+FI.FileDate 10/07/2017 21:49:36
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName LOCALCLIENTSETTING.INI
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\LOCALCLIENTSETTING.INI
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 206
+FI.FileVersion 
+FI.FileDate 03/01/2018 05:23:52
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName LOCALCLIENTSETTING.INI
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\LOCALCLIENTSETTING.INI
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 206
+FI.FileVersion 
+FI.FileDate 03/01/2018 05:23:52
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+ExecNewProcess - C:\tradesoft\TSBGC_NYProd\TSBGC_NYProd.exe /FROMLAUNCH
+Temp.exe not found...
+Closing...
+
+22/08/2023 09:53:07
+C:\tradesoft\TSBGC_NYProd\Launcher.exe
+
+LauncherPath C:\tradesoft\TSBGC_NYProd\
+LauncherFileName LAUNCHER.EXE
+LauncherPath + Launcher.ini C:\tradesoft\TSBGC_NYProd\Launcher.ini
+SettingsINI All.ini
+Target C:\tradesoft\TSBGC_NYProd\
+PrimarySource S:\Tradesoft\installs\TSBGC_NY\Current\
+SecondarySource 
+ShortcutName TSBGC NYProd
+AppName TSBGC_NYProd.exe
+AppINI TradeSoft.ini
+CreateDesktopShortcut -1
+CreateStartMenuShortcut -1
+SourcePath S:\Tradesoft\installs\TSBGC_NY\Current\
+
+Normal update check...
+rtNewFiles
+FI.FileName LAUNCHER.EXE
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\LAUNCHER.EXE
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 1443840
+FI.FileVersion 1.0.0.1
+FI.FileDate 11/04/2011 21:34:12
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName LAUNCHER.EXE
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\LAUNCHER.EXE
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 1443840
+FI.FileVersion 1.0.0.1
+FI.FileDate 11/04/2011 21:34:12
+FI.GoodGet -1
+FI.SourceFileFound -1
+Launcher Source and target match...
+FI.FileName LAUNCHER.INI
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\LAUNCHER.INI
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 4405
+FI.FileVersion 
+FI.FileDate 11/08/2023 23:50:36
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName LAUNCHER.INI
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\LAUNCHER.INI
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 4405
+FI.FileVersion 
+FI.FileDate 11/08/2023 23:50:36
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName TSIB.EXE
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\TSIB.EXE
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 85640704
+FI.FileVersion 15.1.17.2
+FI.FileDate 10/08/2023 16:42:28
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName TSBGC_NYPROD.EXE
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\TSBGC_NYPROD.EXE
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 85640704
+FI.FileVersion 15.1.17.2
+FI.FileDate 10/08/2023 16:42:28
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName INTERFACEDLL.DLL
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\INTERFACEDLL.DLL
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 2015232
+FI.FileVersion 
+FI.FileDate 22/07/2009 14:46:34
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName INTERFACEDLL.DLL
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\INTERFACEDLL.DLL
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 2015232
+FI.FileVersion 
+FI.FileDate 22/07/2009 14:46:34
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName MSVCP71D.DLL
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\MSVCP71D.DLL
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 765952
+FI.FileVersion 7.10.3077.0
+FI.FileDate 19/03/2003 05:04:24
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName MSVCP71D.DLL
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\MSVCP71D.DLL
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 765952
+FI.FileVersion 7.10.3077.0
+FI.FileDate 19/03/2003 05:04:24
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName MSVCR71.DLL
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\MSVCR71.DLL
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 348160
+FI.FileVersion 7.10.3052.4
+FI.FileDate 17/08/2005 19:53:48
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName MSVCR71.DLL
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\MSVCR71.DLL
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 348160
+FI.FileVersion 7.10.3052.4
+FI.FileDate 17/08/2005 19:53:48
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName MSVCR71D.DLL
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\MSVCR71D.DLL
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 544768
+FI.FileVersion 7.10.3077.0
+FI.FileDate 19/03/2003 05:03:52
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName MSVCR71D.DLL
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\MSVCR71D.DLL
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 544768
+FI.FileVersion 7.10.3077.0
+FI.FileDate 19/03/2003 05:03:52
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName BULLET-RED.BMP
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\BULLET-RED.BMP
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 822
+FI.FileVersion 
+FI.FileDate 10/07/2017 21:49:36
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName BULLET-RED.BMP
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\BULLET-RED.BMP
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 822
+FI.FileVersion 
+FI.FileDate 10/07/2017 21:49:36
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName BULLET-GREEN.BMP
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\BULLET-GREEN.BMP
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 822
+FI.FileVersion 
+FI.FileDate 10/07/2017 21:49:36
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName BULLET-GREEN.BMP
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\BULLET-GREEN.BMP
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 822
+FI.FileVersion 
+FI.FileDate 10/07/2017 21:49:36
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName LOCALCLIENTSETTING.INI
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\LOCALCLIENTSETTING.INI
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 206
+FI.FileVersion 
+FI.FileDate 03/01/2018 05:23:52
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName LOCALCLIENTSETTING.INI
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\LOCALCLIENTSETTING.INI
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 201
+FI.FileVersion 
+FI.FileDate 21/08/2023 11:31:00
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target do not match...
+C:\TRADESOFT\TSBGC_NYPROD\LOCALCLIENTSETTING.INI copied to C:\TRADESOFT\TSBGC_NYPROD\LOCALCLIENTSETTING.INI
+ExecNewProcess - C:\tradesoft\TSBGC_NYProd\TSBGC_NYProd.exe /FROMLAUNCH
+Temp.exe not found...
+Closing...
+
+23/08/2023 09:31:47
+C:\tradesoft\TSBGC_NYProd\Launcher.exe
+
+LauncherPath C:\tradesoft\TSBGC_NYProd\
+LauncherFileName LAUNCHER.EXE
+LauncherPath + Launcher.ini C:\tradesoft\TSBGC_NYProd\Launcher.ini
+SettingsINI All.ini
+Target C:\tradesoft\TSBGC_NYProd\
+PrimarySource S:\Tradesoft\installs\TSBGC_NY\Current\
+SecondarySource 
+ShortcutName TSBGC NYProd
+AppName TSBGC_NYProd.exe
+AppINI TradeSoft.ini
+CreateDesktopShortcut -1
+CreateStartMenuShortcut -1
+SourcePath S:\Tradesoft\installs\TSBGC_NY\Current\
+
+Normal update check...
+rtNewFiles
+FI.FileName LAUNCHER.EXE
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\LAUNCHER.EXE
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 1443840
+FI.FileVersion 1.0.0.1
+FI.FileDate 11/04/2011 21:34:12
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName LAUNCHER.EXE
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\LAUNCHER.EXE
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 1443840
+FI.FileVersion 1.0.0.1
+FI.FileDate 11/04/2011 21:34:12
+FI.GoodGet -1
+FI.SourceFileFound -1
+Launcher Source and target match...
+FI.FileName LAUNCHER.INI
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\LAUNCHER.INI
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 4405
+FI.FileVersion 
+FI.FileDate 11/08/2023 23:50:36
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName LAUNCHER.INI
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\LAUNCHER.INI
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 4405
+FI.FileVersion 
+FI.FileDate 11/08/2023 23:50:36
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName TSIB.EXE
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\TSIB.EXE
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 85640704
+FI.FileVersion 15.1.17.2
+FI.FileDate 10/08/2023 16:42:28
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName TSBGC_NYPROD.EXE
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\TSBGC_NYPROD.EXE
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 85640704
+FI.FileVersion 15.1.17.2
+FI.FileDate 10/08/2023 16:42:28
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName INTERFACEDLL.DLL
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\INTERFACEDLL.DLL
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 2015232
+FI.FileVersion 
+FI.FileDate 22/07/2009 14:46:34
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName INTERFACEDLL.DLL
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\INTERFACEDLL.DLL
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 2015232
+FI.FileVersion 
+FI.FileDate 22/07/2009 14:46:34
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName MSVCP71D.DLL
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\MSVCP71D.DLL
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 765952
+FI.FileVersion 7.10.3077.0
+FI.FileDate 19/03/2003 05:04:24
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName MSVCP71D.DLL
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\MSVCP71D.DLL
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 765952
+FI.FileVersion 7.10.3077.0
+FI.FileDate 19/03/2003 05:04:24
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName MSVCR71.DLL
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\MSVCR71.DLL
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 348160
+FI.FileVersion 7.10.3052.4
+FI.FileDate 17/08/2005 19:53:48
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName MSVCR71.DLL
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\MSVCR71.DLL
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 348160
+FI.FileVersion 7.10.3052.4
+FI.FileDate 17/08/2005 19:53:48
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName MSVCR71D.DLL
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\MSVCR71D.DLL
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 544768
+FI.FileVersion 7.10.3077.0
+FI.FileDate 19/03/2003 05:03:52
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName MSVCR71D.DLL
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\MSVCR71D.DLL
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 544768
+FI.FileVersion 7.10.3077.0
+FI.FileDate 19/03/2003 05:03:52
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName BULLET-RED.BMP
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\BULLET-RED.BMP
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 822
+FI.FileVersion 
+FI.FileDate 10/07/2017 21:49:36
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName BULLET-RED.BMP
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\BULLET-RED.BMP
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 822
+FI.FileVersion 
+FI.FileDate 10/07/2017 21:49:36
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName BULLET-GREEN.BMP
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\BULLET-GREEN.BMP
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 822
+FI.FileVersion 
+FI.FileDate 10/07/2017 21:49:36
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName BULLET-GREEN.BMP
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\BULLET-GREEN.BMP
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 822
+FI.FileVersion 
+FI.FileDate 10/07/2017 21:49:36
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName LOCALCLIENTSETTING.INI
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\LOCALCLIENTSETTING.INI
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 206
+FI.FileVersion 
+FI.FileDate 03/01/2018 05:23:52
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName LOCALCLIENTSETTING.INI
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\LOCALCLIENTSETTING.INI
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 206
+FI.FileVersion 
+FI.FileDate 03/01/2018 05:23:52
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+ExecNewProcess - C:\tradesoft\TSBGC_NYProd\TSBGC_NYProd.exe /FROMLAUNCH
+Temp.exe not found...
+Closing...
+
+24/08/2023 09:42:08
+C:\tradesoft\TSBGC_NYProd\Launcher.exe
+
+LauncherPath C:\tradesoft\TSBGC_NYProd\
+LauncherFileName LAUNCHER.EXE
+LauncherPath + Launcher.ini C:\tradesoft\TSBGC_NYProd\Launcher.ini
+SettingsINI All.ini
+Target C:\tradesoft\TSBGC_NYProd\
+PrimarySource S:\Tradesoft\installs\TSBGC_NY\Current\
+SecondarySource 
+ShortcutName TSBGC NYProd
+AppName TSBGC_NYProd.exe
+AppINI TradeSoft.ini
+CreateDesktopShortcut -1
+CreateStartMenuShortcut -1
+SourcePath S:\Tradesoft\installs\TSBGC_NY\Current\
+
+Normal update check...
+rtNewFiles
+FI.FileName LAUNCHER.EXE
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\LAUNCHER.EXE
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 1443840
+FI.FileVersion 1.0.0.1
+FI.FileDate 11/04/2011 21:34:12
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName LAUNCHER.EXE
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\LAUNCHER.EXE
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 1443840
+FI.FileVersion 1.0.0.1
+FI.FileDate 11/04/2011 21:34:12
+FI.GoodGet -1
+FI.SourceFileFound -1
+Launcher Source and target match...
+FI.FileName LAUNCHER.INI
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\LAUNCHER.INI
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 4405
+FI.FileVersion 
+FI.FileDate 11/08/2023 23:50:36
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName LAUNCHER.INI
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\LAUNCHER.INI
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 4405
+FI.FileVersion 
+FI.FileDate 11/08/2023 23:50:36
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName TSIB.EXE
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\TSIB.EXE
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 85640704
+FI.FileVersion 15.1.17.2
+FI.FileDate 10/08/2023 16:42:28
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName TSBGC_NYPROD.EXE
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\TSBGC_NYPROD.EXE
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 85640704
+FI.FileVersion 15.1.17.2
+FI.FileDate 10/08/2023 16:42:28
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName INTERFACEDLL.DLL
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\INTERFACEDLL.DLL
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 2015232
+FI.FileVersion 
+FI.FileDate 22/07/2009 14:46:34
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName INTERFACEDLL.DLL
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\INTERFACEDLL.DLL
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 2015232
+FI.FileVersion 
+FI.FileDate 22/07/2009 14:46:34
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName MSVCP71D.DLL
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\MSVCP71D.DLL
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 765952
+FI.FileVersion 7.10.3077.0
+FI.FileDate 19/03/2003 05:04:24
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName MSVCP71D.DLL
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\MSVCP71D.DLL
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 765952
+FI.FileVersion 7.10.3077.0
+FI.FileDate 19/03/2003 05:04:24
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName MSVCR71.DLL
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\MSVCR71.DLL
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 348160
+FI.FileVersion 7.10.3052.4
+FI.FileDate 17/08/2005 19:53:48
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName MSVCR71.DLL
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\MSVCR71.DLL
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 348160
+FI.FileVersion 7.10.3052.4
+FI.FileDate 17/08/2005 19:53:48
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName MSVCR71D.DLL
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\MSVCR71D.DLL
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 544768
+FI.FileVersion 7.10.3077.0
+FI.FileDate 19/03/2003 05:03:52
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName MSVCR71D.DLL
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\MSVCR71D.DLL
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 544768
+FI.FileVersion 7.10.3077.0
+FI.FileDate 19/03/2003 05:03:52
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName BULLET-RED.BMP
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\BULLET-RED.BMP
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 822
+FI.FileVersion 
+FI.FileDate 10/07/2017 21:49:36
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName BULLET-RED.BMP
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\BULLET-RED.BMP
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 822
+FI.FileVersion 
+FI.FileDate 10/07/2017 21:49:36
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName BULLET-GREEN.BMP
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\BULLET-GREEN.BMP
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 822
+FI.FileVersion 
+FI.FileDate 10/07/2017 21:49:36
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName BULLET-GREEN.BMP
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\BULLET-GREEN.BMP
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 822
+FI.FileVersion 
+FI.FileDate 10/07/2017 21:49:36
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName LOCALCLIENTSETTING.INI
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\LOCALCLIENTSETTING.INI
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 206
+FI.FileVersion 
+FI.FileDate 03/01/2018 05:23:52
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName LOCALCLIENTSETTING.INI
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\LOCALCLIENTSETTING.INI
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 206
+FI.FileVersion 
+FI.FileDate 03/01/2018 05:23:52
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+ExecNewProcess - C:\tradesoft\TSBGC_NYProd\TSBGC_NYProd.exe /FROMLAUNCH
+Temp.exe not found...
+Closing...
+
+25/08/2023 09:51:47
+C:\tradesoft\TSBGC_NYProd\Launcher.exe
+
+LauncherPath C:\tradesoft\TSBGC_NYProd\
+LauncherFileName LAUNCHER.EXE
+LauncherPath + Launcher.ini C:\tradesoft\TSBGC_NYProd\Launcher.ini
+SettingsINI All.ini
+Target C:\tradesoft\TSBGC_NYProd\
+PrimarySource S:\Tradesoft\installs\TSBGC_NY\Current\
+SecondarySource 
+ShortcutName TSBGC NYProd
+AppName TSBGC_NYProd.exe
+AppINI TradeSoft.ini
+CreateDesktopShortcut -1
+CreateStartMenuShortcut -1
+SourcePath S:\Tradesoft\installs\TSBGC_NY\Current\
+
+Normal update check...
+rtNewFiles
+FI.FileName LAUNCHER.EXE
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\LAUNCHER.EXE
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 1443840
+FI.FileVersion 1.0.0.1
+FI.FileDate 11/04/2011 21:34:12
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName LAUNCHER.EXE
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\LAUNCHER.EXE
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 1443840
+FI.FileVersion 1.0.0.1
+FI.FileDate 11/04/2011 21:34:12
+FI.GoodGet -1
+FI.SourceFileFound -1
+Launcher Source and target match...
+FI.FileName LAUNCHER.INI
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\LAUNCHER.INI
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 4406
+FI.FileVersion 
+FI.FileDate 24/08/2023 23:43:32
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName LAUNCHER.INI
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\LAUNCHER.INI
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 4405
+FI.FileVersion 
+FI.FileDate 11/08/2023 23:50:36
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target do not match...
+C:\TRADESOFT\TSBGC_NYPROD\LAUNCHER.INI copied to C:\TRADESOFT\TSBGC_NYPROD\LAUNCHER.INI
+FI.FileName TSIB.EXE
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\TSIB.EXE
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 85651456
+FI.FileVersion 15.1.18.2
+FI.FileDate 22/08/2023 12:00:34
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName TSBGC_NYPROD.EXE
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\TSBGC_NYPROD.EXE
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 85640704
+FI.FileVersion 15.1.17.2
+FI.FileDate 10/08/2023 16:42:28
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target do not match...
+C:\TRADESOFT\TSBGC_NYPROD\TSBGC_NYPROD.EXE copied to C:\TRADESOFT\TSBGC_NYPROD\TSBGC_NYPROD.EXE
+FI.FileName INTERFACEDLL.DLL
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\INTERFACEDLL.DLL
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 2015232
+FI.FileVersion 
+FI.FileDate 22/07/2009 14:46:34
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName INTERFACEDLL.DLL
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\INTERFACEDLL.DLL
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 2015232
+FI.FileVersion 
+FI.FileDate 22/07/2009 14:46:34
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName MSVCP71D.DLL
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\MSVCP71D.DLL
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 765952
+FI.FileVersion 7.10.3077.0
+FI.FileDate 19/03/2003 05:04:24
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName MSVCP71D.DLL
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\MSVCP71D.DLL
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 765952
+FI.FileVersion 7.10.3077.0
+FI.FileDate 19/03/2003 05:04:24
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName MSVCR71.DLL
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\MSVCR71.DLL
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 348160
+FI.FileVersion 7.10.3052.4
+FI.FileDate 17/08/2005 19:53:48
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName MSVCR71.DLL
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\MSVCR71.DLL
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 348160
+FI.FileVersion 7.10.3052.4
+FI.FileDate 17/08/2005 19:53:48
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName MSVCR71D.DLL
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\MSVCR71D.DLL
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 544768
+FI.FileVersion 7.10.3077.0
+FI.FileDate 19/03/2003 05:03:52
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName MSVCR71D.DLL
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\MSVCR71D.DLL
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 544768
+FI.FileVersion 7.10.3077.0
+FI.FileDate 19/03/2003 05:03:52
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName BULLET-RED.BMP
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\BULLET-RED.BMP
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 822
+FI.FileVersion 
+FI.FileDate 10/07/2017 21:49:36
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName BULLET-RED.BMP
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\BULLET-RED.BMP
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 822
+FI.FileVersion 
+FI.FileDate 10/07/2017 21:49:36
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName BULLET-GREEN.BMP
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\BULLET-GREEN.BMP
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 822
+FI.FileVersion 
+FI.FileDate 10/07/2017 21:49:36
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName BULLET-GREEN.BMP
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\BULLET-GREEN.BMP
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 822
+FI.FileVersion 
+FI.FileDate 10/07/2017 21:49:36
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName LOCALCLIENTSETTING.INI
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\LOCALCLIENTSETTING.INI
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 206
+FI.FileVersion 
+FI.FileDate 03/01/2018 05:23:52
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName LOCALCLIENTSETTING.INI
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\LOCALCLIENTSETTING.INI
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 206
+FI.FileVersion 
+FI.FileDate 03/01/2018 05:23:52
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+ExecNewProcess - C:\tradesoft\TSBGC_NYProd\TSBGC_NYProd.exe /FROMLAUNCH
+Temp.exe not found...
+Closing...
+
+04/09/2023 09:18:30
+C:\tradesoft\TSBGC_NYProd\Launcher.exe
+
+LauncherPath C:\tradesoft\TSBGC_NYProd\
+LauncherFileName LAUNCHER.EXE
+LauncherPath + Launcher.ini C:\tradesoft\TSBGC_NYProd\Launcher.ini
+SettingsINI All.ini
+Target C:\tradesoft\TSBGC_NYProd\
+PrimarySource S:\Tradesoft\installs\TSBGC_NY\Current\
+SecondarySource 
+ShortcutName TSBGC NYProd
+AppName TSBGC_NYProd.exe
+AppINI TradeSoft.ini
+CreateDesktopShortcut -1
+CreateStartMenuShortcut -1
+SourcePath S:\Tradesoft\installs\TSBGC_NY\Current\
+
+Normal update check...
+rtNewFiles
+FI.FileName LAUNCHER.EXE
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\LAUNCHER.EXE
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 1443840
+FI.FileVersion 1.0.0.1
+FI.FileDate 11/04/2011 21:34:12
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName LAUNCHER.EXE
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\LAUNCHER.EXE
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 1443840
+FI.FileVersion 1.0.0.1
+FI.FileDate 11/04/2011 21:34:12
+FI.GoodGet -1
+FI.SourceFileFound -1
+Launcher Source and target match...
+FI.FileName LAUNCHER.INI
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\LAUNCHER.INI
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 4406
+FI.FileVersion 
+FI.FileDate 24/08/2023 23:43:32
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName LAUNCHER.INI
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\LAUNCHER.INI
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 4406
+FI.FileVersion 
+FI.FileDate 24/08/2023 23:43:32
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName TSIB.EXE
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\TSIB.EXE
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 85651456
+FI.FileVersion 15.1.18.2
+FI.FileDate 22/08/2023 12:00:34
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName TSBGC_NYPROD.EXE
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\TSBGC_NYPROD.EXE
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 85651456
+FI.FileVersion 15.1.18.2
+FI.FileDate 22/08/2023 12:00:34
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName INTERFACEDLL.DLL
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\INTERFACEDLL.DLL
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 2015232
+FI.FileVersion 
+FI.FileDate 22/07/2009 14:46:34
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName INTERFACEDLL.DLL
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\INTERFACEDLL.DLL
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 2015232
+FI.FileVersion 
+FI.FileDate 22/07/2009 14:46:34
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName MSVCP71D.DLL
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\MSVCP71D.DLL
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 765952
+FI.FileVersion 7.10.3077.0
+FI.FileDate 19/03/2003 05:04:24
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName MSVCP71D.DLL
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\MSVCP71D.DLL
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 765952
+FI.FileVersion 7.10.3077.0
+FI.FileDate 19/03/2003 05:04:24
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName MSVCR71.DLL
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\MSVCR71.DLL
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 348160
+FI.FileVersion 7.10.3052.4
+FI.FileDate 17/08/2005 19:53:48
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName MSVCR71.DLL
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\MSVCR71.DLL
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 348160
+FI.FileVersion 7.10.3052.4
+FI.FileDate 17/08/2005 19:53:48
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName MSVCR71D.DLL
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\MSVCR71D.DLL
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 544768
+FI.FileVersion 7.10.3077.0
+FI.FileDate 19/03/2003 05:03:52
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName MSVCR71D.DLL
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\MSVCR71D.DLL
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 544768
+FI.FileVersion 7.10.3077.0
+FI.FileDate 19/03/2003 05:03:52
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName BULLET-RED.BMP
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\BULLET-RED.BMP
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 822
+FI.FileVersion 
+FI.FileDate 10/07/2017 21:49:36
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName BULLET-RED.BMP
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\BULLET-RED.BMP
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 822
+FI.FileVersion 
+FI.FileDate 10/07/2017 21:49:36
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName BULLET-GREEN.BMP
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\BULLET-GREEN.BMP
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 822
+FI.FileVersion 
+FI.FileDate 10/07/2017 21:49:36
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName BULLET-GREEN.BMP
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\BULLET-GREEN.BMP
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 822
+FI.FileVersion 
+FI.FileDate 10/07/2017 21:49:36
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+FI.FileName LOCALCLIENTSETTING.INI
+FI.FilePath S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\LOCALCLIENTSETTING.INI
+FI.FileDirectory S:\TRADESOFT\INSTALLS\TSBGC_NY\CURRENT\
+FI.FileSize 206
+FI.FileVersion 
+FI.FileDate 03/01/2018 05:23:52
+FI.GoodGet -1
+FI.SourceFileFound -1
+FI.FileName LOCALCLIENTSETTING.INI
+FI.FilePath C:\TRADESOFT\TSBGC_NYPROD\LOCALCLIENTSETTING.INI
+FI.FileDirectory C:\TRADESOFT\TSBGC_NYPROD\
+FI.FileSize 206
+FI.FileVersion 
+FI.FileDate 03/01/2018 05:23:52
+FI.GoodGet -1
+FI.SourceFileFound -1
+Source and target match...
+ExecNewProcess - C:\tradesoft\TSBGC_NYProd\TSBGC_NYProd.exe /FROMLAUNCH
+Temp.exe not found...
+Closing...
+
